@@ -2,7 +2,9 @@
 const nextConfig = {
     images:{
         domains:[
-            "images.pexels.com"
+            "images.pexels.com",
+            "via.placeholder.com",
+            "d1bltcifwhkdae.cloudfront.net"
         ]
     }
 }
