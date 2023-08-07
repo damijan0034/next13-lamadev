@@ -42,7 +42,7 @@ const BlogPost = async ({ params }) => {
           <div className={styles.author}>
             <Image
               src={data.img}
-              alt=""
+              alt="image"
               width={40}
               height={40}
               className={styles.avatar}

@@ -33,7 +33,7 @@ export default function page({params}) {
                 className={styles.img}
                 fill={true}
                 src={item.image}
-                alt=''
+                alt='image'
                 />
             </div>
         </div>
